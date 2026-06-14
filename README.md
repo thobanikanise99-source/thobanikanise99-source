@@ -4,8 +4,6 @@ Hi, I'm Tobani Kanise 👋
 
 📊 Aspiring Data Analyst passionate about using data to solve real-world agricultural and business problems.
 
-
-
 🔧 Skills 
 
 - Python
@@ -25,18 +23,18 @@ Hi, I'm Tobani Kanise 👋
 - 📚 Student Results Analyzer
 
 
-
  🌱 Currently Learning 
 
-- Data Visualization
-
--  Ai fundimentals
 
 - Machine Learning
 
--  Data Analytics 
+- Data Analytics 
 
-
+- Data Visualization
+  
+- Ai fundimentals
+  
+- Machine Learning
 
  📫 Contact 
 
