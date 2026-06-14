@@ -1,16 +1,43 @@
-## Hi there 👋
+Hi, I'm Tobani Kanise 👋 
 
-<!--
-**thobanikanise99-source/thobanikanise99-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Agriculture Economics student at the University of Fort Hare
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst passionate about using data to solve real-world agricultural and business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+🔧 Skills 
+
+- Python
+
+- Pandas
+
+- Data Analysis
+
+- Git & GitHub
+
+ 📌 Featured Projects 
+
+- 🛒 Retail Sales Analysis in Python
+
+- ☕ Coffee Shop Sales EDA
+
+- 📚 Student Results Analyzer
+
+
+
+ 🌱 Currently Learning 
+
+- Data Visualization
+
+-  Ai fundimentals
+
+- Machine Learning
+
+-  Data Analytics 
+
+
+
+ 📫 Contact 
+
+📧 thobanikanise99@gmail.com
