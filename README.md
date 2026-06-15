@@ -25,9 +25,6 @@ Hi, I'm Tobani Kanise 👋
 
  🌱 Currently Learning 
 
-
-- Machine Learning
-
 - Data Analytics 
 
 - Data Visualization
