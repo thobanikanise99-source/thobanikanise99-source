@@ -21,40 +21,7 @@
 ---
 [![](https://komarev.com/ghpvc/?username=thobanikanise99-source&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->Hi, I'm Tobani Kanise 👋 
 
-🎓 Agriculture Economics student at the University of Fort Hare
-
-📊 Aspiring Data Analyst passionate about using data to solve real-world agricultural and business problems.
-
-🔧 Skills 
-
-- Python
-
-- Pandas
-
-- Data Analysis
-
-- Git & GitHub
-
- 📌 Featured Projects 
-
-- 🛒 Retail Sales Analysis in Python
-
-- ☕ Coffee Shop Sales EDA
-
-- 📚 Student Results Analyzer
-
-
- 🌱 Currently Learning 
-
-- Data Analytics 
-
-- Data Visualization
-  
-- Ai fundimentals
-  
-- Machine Learning
 
  📫 Contact 
 
