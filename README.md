@@ -1,28 +1,44 @@
-# 💫 About Me:
-🔭 I’m currently working on improving my Python and data analytics skills<br><br>👯 I’m looking to collaborate on data analysis and open-source projects<br><br>🤝 I’m looking for help with advanced Python programming<br><br>🌱 I’m currently learning Python and Data Analytics<br><br>💬 Ask me about Agricultural Economics, Python, and Data Analysis<br><br>⚡ Fun fact: I enjoy using data to solve real-world business problems
+# Hi, I'm Tobani Kanise 👋
 
+I'm an Agricultural Economics graduate with a growing interest in **Data Analytics**.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tobani Kanise) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thobanikanise99@gmail.com) 
+I enjoy working with data to understand problems, find useful insights and support better decision-making.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=thobanikanise99-source&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=thobanikanise99-source&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=thobanikanise99-source&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🛠️ Skills & Tools
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=thobanikanise99-source&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+* Python
+* Pandas
+* Matplotlib
+* Seaborn
+* Machine Learning
+* Data Analysis
+* Jupyter Notebook
+* VS Code
+* Databricks
+* GitHub
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=thobanikanise99-source&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 📊 Projects
 
----
-[![](https://komarev.com/ghpvc/?username=thobanikanise99-source&icon=0&color=0)](https://visitcount.itsvg.in)
+### Retail Sales Data Agent
 
+Built a retail sales Data Agent using **Databricks** that allows business users to ask questions about sales, customers, products and purchasing behaviour using natural language.
 
+### Retail Sales Data Analysis
 
- 📫 Contact 
+Analysed retail sales data using Python to identify sales trends, customer behaviour, product performance and business insights.
 
-📧 thobanikanise99@gmail.com
+## 🌱 Currently Learning
+
+* Power BI
+* SQL
+* Data Analytics
+* Artificial Intelligence
+
+## 🎯 Goal
+
+My goal is to build a career where I can combine my background in **Agricultural Economics** with **Data Analytics and technology** to solve real-world business and agricultural problems.
+
+## 📫 Connect With Me
+
+I'm always interested in learning, building projects and connecting with people in the data and technology space.
+
